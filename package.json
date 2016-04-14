@@ -1,0 +1,22 @@
+{
+"name": "ebook-frontend-project",
+"version": "0.0.1",
+"description": "Ejemplo de desarrollo de aplicación web c
+on JavaScript",
+"bugs": {
+"url": "https://github.com/congas1983/ProjectAngularJS",
+"email": "congas1983@hotmail.com"
+},
+"license": "MIT",
+"author": {
+"name": "Andrés Alvarez",
+"email": "congas1983@hotmail.com",
+"url": "http://carlosazaustre.es"
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/congas1983/ProjectAngularJS"
+},
+"dependencies": {},
+"devDependencies": {}
+}
